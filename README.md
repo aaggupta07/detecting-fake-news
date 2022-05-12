@@ -1,6 +1,7 @@
 # Detecting Fake News with Machine Learning
-**Aditya Gupta, Shrihan Tummala** <br>
-<br>
+
+
+## Overview
 
 In this study, we aimed to find the most effective machine learning model for autonomously classifying news as authentic or falsified journalism. Algorithms tested include **Logistic Regression**, a **Decision Tree Classifier**, a **Random Forest Classifier**, a **Passive-Aggressive Classifier**, and a **Support Vector Machine Classifier**. <br>
 
