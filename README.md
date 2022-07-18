@@ -3,7 +3,7 @@
 
 ## Overview
 
-In this study, we aimed to find the most effective machine learning model for autonomously classifying news as authentic or falsified journalism. Algorithms tested include **Logistic Regression**, a **Decision Tree Classifier**, a **Random Forest Classifier**, a **Passive-Aggressive Classifier**, and a **Support Vector Machine Classifier**. <br>
+In this study, I aimed to find the most effective machine learning model for autonomously classifying news as authentic or falsified journalism. Algorithms tested include **Logistic Regression**, a **Decision Tree Classifier**, a **Random Forest Classifier**, a **Passive-Aggressive Classifier**, and a **Support Vector Machine Classifier**. <br>
 
 *Research and findings are summarized in the report (.pdf). Code is downloadable via Jupyter Notebook (.ipynb).* <br>
 
